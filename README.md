@@ -5,6 +5,9 @@ Me chamo Matheus Leandro Ferreira, sou graduado em Ciências da Computação pel
 ## Tecnologias e Ferramentas
  <img src="https://img.shields.io/badge/JAVA-blue?style=for-the-badge&logo=java&logoColor=black"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/CSharp-E34F26?style=for-the-badge&logo=csharp&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Android-1572B6?style=for-the-badge&logo=android&logoColor=green"> <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=61DAFB"> <img src="https://img.shields.io/badge/AspNetCore-DD0031?style=for-the-badge&logo=AspNet&logoColor=white"> <img src="https://img.shields.io/badge/eclipse-483D8B?style=for-the-badge&logo=eclipse&logoColor=white"> <img src="https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/postgresql-008B8B?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/oracle-FF0000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/CSharp-blue?style=for-the-badge&logo=csharp&logoColor=White">
 
+## Lattes Completo
+http://lattes.cnpq.br/9507290751434167
+
 ## Formação acadêmica/titulação
 2010 - 2012<br>
 Especialização em Engenharia de Software.<br>
