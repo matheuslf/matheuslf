@@ -10,6 +10,9 @@ http://lattes.cnpq.br/9507290751434167
 
 ## Linkedin
 www.linkedin.com/in/matheus-leandro-ferreira-836529a5
+
+## Youtube
+https://www.youtube.com/@matheuslf
  
 <!--
 **matheuslf/matheuslf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
